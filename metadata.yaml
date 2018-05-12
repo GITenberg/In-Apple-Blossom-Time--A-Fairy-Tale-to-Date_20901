@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '1017'
     url: http://www.gutenberg.org/2009/agents/1017
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20901#In-Apple-Blossom-Time--A-Fairy-Tale-to-Date
 gutenberg_issued: '2007-03-25'
 gutenberg_type: Text
 identifiers:
